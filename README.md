@@ -1,5 +1,5 @@
 # PacketGrep
-This tool help you to detect and capture certain type of packet and malicious behaivor at real time which is helpfull for
+This tool for linux that help you to detect and capture certain type of packet and malicious behaivor at real time which is helpfull for
 network admin,security team.
 
 # Reqirements
